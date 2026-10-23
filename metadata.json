@@ -1,0 +1,6 @@
+{
+  "name": "LifeCommit - Daily Commit & Habit Tracking",
+  "description": "Build steady daily commits, track your 30-day commit heatmap, always-visible desktop widgets, and AI scheduling assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
